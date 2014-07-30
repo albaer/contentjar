@@ -1,14 +1,8 @@
-== README
+##Handy Links
 
-#Handy Links
-
-###Wireframe
-[https://baer.mybalsamiq.com/projects/contentjar/grid]
-
-###Trello
-[https://trello.com/b/y6d0dvRx/contentjar]
-
-###Designs
+####Wireframe: https://baer.mybalsamiq.com/projects/contentjar/grid]
+####Trello: https://trello.com/b/y6d0dvRx/contentjar
+####Designs:
 
 
 
