@@ -1,7 +1,8 @@
 ##Handy Links
 
-####Wireframe: https://baer.mybalsamiq.com/projects/contentjar/grid]
+####Wireframe: https://baer.mybalsamiq.com/projects/contentjar/grid
 ####Trello: https://trello.com/b/y6d0dvRx/contentjar
+####Schema: https://www.lucidchart.com/documents/edit/c33bdd1a-7ea4-4a62-b263-1b9303b5f6db/0?driveId=0AN-Tx5d8-xX7Uk9PVA
 ####Designs:
 
 
@@ -28,7 +29,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
