@@ -1,5 +1,20 @@
 == README
 
+Handy Links
+
+Wireframe
+*https://baer.mybalsamiq.com/projects/contentjar/grid
+
+Trello
+https://trello.com/b/y6d0dvRx/contentjar
+
+Designs
+
+
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
